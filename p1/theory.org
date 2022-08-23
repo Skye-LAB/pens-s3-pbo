@@ -1,0 +1,61 @@
+#+title:     PBO Pertemuan 1
+#+author:    Bayu Prima Setiawan
+#+email:     bayprime@it.student.pens.ac.id
+
+* Pengenalan Materi
+Untuk mencoba Dart bisa menggunakan [[https://dart.dev/#try-dart][try Dart]].
+Materi PBO bahasa Dart
+| Minggu Ke- | Materi Pokok   | Materi Detail           |
+|------------+----------------+-------------------------|
+|          1 | Dart intro     |                         |
+|          2 | Dart basic     | comment                 |
+|            |                | variable                |
+|            |                | data types              |
+|            |                | numbers                 |
+|            |                | string                  |
+|            |                | booleans                |
+|            |                | operators               |
+|            |                | exception               |
+|            |                | contant & final         |
+|            |                | null safety             |
+|          3 | conditions     | if & else               |
+|            |                | switch case             |
+|          4 | iterations     | for loops               |
+|            |                | while & do while        |
+|            |                | break & continue        |
+|          5 | collections    | list                    |
+|            |                | set                     |
+|            |                | map                     |
+|          6 | FP paradigm    | anonymous function      |
+|            |                | high-order function     |
+|            |                | closures                |
+|        7&9 | OOP paradigm   | class                   |
+|            |                | porperties & methods    |
+|            |                | contructor              |
+|            |                | cascade notation        |
+|            |                | inheritance             |
+|            |                | abstract class          |
+|            |                | implicit interfase      |
+|            |                | enumerate types         |
+|            |                | mixins                  |
+|            |                | extension methods       |
+|         10 | Dart futures   | future with async await |
+|         11 | effective Dart | effective Dart rules    |
+|      11-16 | final project  |                         |
+* Pembagian Nilai
+| Nilai        | Praktikum | Teori |
+|--------------+-----------+-------|
+| UTS          |       20% |   30% |
+| UAS          |       20% |   30% |
+| tugas 1      |       10% |   20% |
+| tugas 2      |       10% |   20% |
+| proyek akhir |       40% |       |
+
+* references
+| nama               | link                                                                     |
+|--------------------+--------------------------------------------------------------------------|
+| dicoding.com       | https://www.dicoding.com/academies/191/tutorials                         |
+| tutorialspoint.com | https://www.tutorialspoint.com/dart_programming/index.htm                |
+| geeksforgeeks.org  | https://www.geeksforgeeks.org/dart-tutorial/                             |
+| javapoint.com      | https://www.javatpoint.com/dart-programming                              |
+| youtube.com        | https://www.youtube.com/playlist?list=PLZQbl9Jhl-VDeCuNNp7C2SR1lFsIjQRQo |
