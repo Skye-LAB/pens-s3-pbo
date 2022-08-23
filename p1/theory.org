@@ -6,43 +6,43 @@
 Untuk mencoba Dart bisa menggunakan [[https://dart.dev/#try-dart][try Dart]].
 
 Materi PBO bahasa Dart
-| Minggu Ke- | Materi Pokok   | Materi Detail              |
-|------------+----------------+----------------------------|
-|          1 | Dart intro     |                            |
-|          2 | Dart basic     | comment                    |
-|            |                | variable                   |
-|            |                | data types                 |
-|            |                | numbers                    |
-|            |                | string                     |
-|            |                | booleans                   |
-|            |                | operators                  |
-|            |                | exception                  |
-|            |                | contant & final            |
-|            |                | null safety                |
-|          3 | conditions     | if & else                  |
-|            |                | switch case                |
-|          4 | iterations     | for loops                  |
-|            |                | while & do while           |
-|            |                | break & continue           |
-|          5 | collections    | list                       |
-|            |                | set                        |
-|            |                | map                        |
-|          6 | FP paradigm    | anonymous function         |
-|            |                | high-order function        |
-|            |                | closures                   |
-|        7&9 | OOP paradigm   | class                      |
-|            |                | porperties & methods       |
-|            |                | contructor                 |
-|            |                | cascade notation           |
-|            |                | inheritance                |
-|            |                | abstract class             |
-|            |                | implicit interfase         |
-|            |                | enumerate types            |
-|            |                | mixins                     |
-|            |                | extension methods          |
-|         10 | Dart futures   | future with async await    |
-|         11 | effective Dart | effective Dart rules       |
-|      11-16 | final project  |                            |
+| Minggu Ke- | Materi Pokok   | Materi Detail           |
+|------------+----------------+-------------------------|
+|          1 | Dart intro     |                         |
+|          2 | Dart basic     | comment                 |
+|            |                | variable                |
+|            |                | data types              |
+|            |                | numbers                 |
+|            |                | string                  |
+|            |                | booleans                |
+|            |                | operators               |
+|            |                | exception               |
+|            |                | contant & final         |
+|            |                | null safety             |
+|          3 | conditions     | if & else               |
+|            |                | switch case             |
+|          4 | iterations     | for loops               |
+|            |                | while & do while        |
+|            |                | break & continue        |
+|          5 | collections    | list                    |
+|            |                | set                     |
+|            |                | map                     |
+|          6 | FP paradigm    | anonymous function      |
+|            |                | high-order function     |
+|            |                | closures                |
+|        7&9 | OOP paradigm   | class                   |
+|            |                | porperties & methods    |
+|            |                | contructor              |
+|            |                | cascade notation        |
+|            |                | inheritance             |
+|            |                | abstract class          |
+|            |                | implicit interfase      |
+|            |                | enumerate types         |
+|            |                | mixins                  |
+|            |                | extension methods       |
+|         10 | Dart futures   | future with async await |
+|         11 | effective Dart | effective Dart rules    |
+|      12-16 | final project  |                         |
 * Pembagian Nilai
 | Nilai        | Praktikum | Teori |
 |--------------+-----------+-------|
